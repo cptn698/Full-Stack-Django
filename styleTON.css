@@ -1,0 +1,41 @@
+
+
+.navbar-brand{
+    background-color:darkslategray;
+    padding-block: 20px;
+    padding-right: 87%;
+    padding-left: 3%;
+}
+.nav-underline{
+    padding-bottom: 5%;
+    background-color:darksalmon
+}
+
+.full{
+    background-color:bisque;
+}
+
+.nav-pills .nav-link.active {
+    background-color:black; /* Change this to your desired color */
+    color: white;
+margin-left: 50%;}
+
+    .extra-space{
+        padding: auto;
+    }
+
+    .scroll-container {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+      }
+      .scroll-item {
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin-right: 10px;
+        background-color: #007BFF;
+        color: white;
+        text-align: center;
+        line-height: 200px;
+      }
